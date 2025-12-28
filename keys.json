@@ -2,6 +2,8 @@
     "keys": [
         "KEY-BTS7M3RJVBUK"
     ],
-    "whitelist": [],
+    "whitelist": [
+        "CLEITI6966"
+    ],
     "global_key": "KEY-BTS7M3RJVBUK"
 }
