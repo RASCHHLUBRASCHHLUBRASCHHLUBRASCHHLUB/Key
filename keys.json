@@ -2,6 +2,8 @@
     "keys": [
         "KEY-KKE5RAEG89PV"
     ],
-    "whitelist": [],
+    "whitelist": [
+        "CLEITI6966"
+    ],
     "global_key": "KEY-KKE5RAEG89PV"
 }
